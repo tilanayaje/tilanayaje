@@ -6,4 +6,4 @@
 - 🔬 Working on other minor projects as well
 - ✍️ Passionate about BIG DATA
 - ⚡Interested in robotics, AI, and computer vision
-- 📫 Reach out at tilanayaje@gmail.com or on [LinkedIn](https://www.linkedin.com/in/jebriel-i-cs)! 
+- 📫 Reach out at tilanayaje@gmail.com or on LinkedIn!
